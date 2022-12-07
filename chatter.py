@@ -8,7 +8,8 @@ class Chatter:
         """Chatter is a wrapper of acheong08's excellent Reverse Engineered ChatGPT"""
         config = {
             "Authorization": str(os.environ.get("OPENAI_AUTH")),
-            "session_token": str(os.environ.get("CHATGPT_SESSION1"))+str(os.environ.get("CHATGPT_SESSION2"))
+            "session_token": str(os.environ.get("CHATGPT_SESSION1"))
+            + str(os.environ.get("CHATGPT_SESSION2")),
         }
         self.chatbot = Chatbot(config, conversation_id=None)
         return None
