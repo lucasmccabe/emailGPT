@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other
+*.json
+*.ppt
+*.pptx
