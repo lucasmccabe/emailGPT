@@ -1,2 +1,2 @@
 streamlit==1.15.2
-revChatGPT==0.0.31.3
+revChatGPT==0.0.31.5
