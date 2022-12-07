@@ -1,9 +1,10 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lucasmccabe-emailgpt-app-jspyxu.streamlit.app/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 # emailGPT
 
-`emailGPT` is a quick and easy interface to generate emails with [ChatGPT](https://openai.com/blog/chatgpt/).
+`emailGPT` is a quick and easy interface to generate emails with [ChatGPT](https://openai.com/blog/chatgpt/). To try it out, click the "Open in Streamlit" button above, or click [here](https://lucasmccabe-emailgpt-app-jspyxu.streamlit.app/).
 
 
 <img src="assets/lazy_email.png" alt="drawing" width="200"/>
