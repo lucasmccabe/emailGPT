@@ -20,13 +20,13 @@
 
 ## Examples
 
-<img src="assets/vader.png" alt="vader" width="400"/>
+<img src="assets/vader.png" alt="vader" width="500"/>
 <br><br>
 
-<img src="assets/pooh.png" alt="pooh" width="400"/>
+<img src="assets/pooh.png" alt="pooh" width="500"/>
 <br><br>
 
-<img src="assets/coyote.png" alt="coyote" width="400"/>
+<img src="assets/coyote.png" alt="coyote" width="500"/>
 
 
 ## Usage
