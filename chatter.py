@@ -7,7 +7,6 @@ class Chatter:
     def __init__(self):
         """Chatter is a wrapper of acheong08's excellent Reverse Engineered ChatGPT"""
         config = {
-            "Authorization": str(os.environ.get("OPENAI_AUTH")),
             "session_token": str(os.environ.get("CHATGPT_SESSION1"))
             + str(os.environ.get("CHATGPT_SESSION2")),
         }
@@ -22,6 +21,7 @@ class Chatter:
         prompt : str
             the instructions/dialogue provided to ChatGPT
         """
+        self.chatbot.reset_chat()
         message = self.chatbot.get_chat_response(prompt)["message"]
         return message
 
