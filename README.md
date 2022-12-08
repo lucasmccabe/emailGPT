@@ -1,6 +1,7 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lucasmccabe-emailgpt-app-jspyxu.streamlit.app/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![GitHub Repo stars](https://img.shields.io/github/stars/lucasmccabe/emailGPT?style=social)
 
 # emailGPT
 
